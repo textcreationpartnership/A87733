@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Every man's duty, and the godly man's practice, or, Exhortations to love God drawn from the consideration of his great goodness towards us, and the many mercies, favours, and benefits, which we daily receive at his hands, which may stir up every one to the greatest measure of thankfulness, and perswade us all to live unto Gods glory : very profitable for these times wherein iniquity doth abound, and the love of many waketh cold.</title>
+            <author>Killiray, Matthew.</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87733</idno><idno type="EEBO-CITATION">42475075</idno>
+  <idno type="VID">151203</idno>
+  <idno type="EEBO-PROQUEST">2240903096</idno>
+  
+            <idno type="STC">Wing K474B</idno>
+            <idno type="STC">ESTC R43667</idno>
+            <idno type="OCLC">42475075</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151203)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2249:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Every man's duty, and the godly man's practice, or, Exhortations to love God drawn from the consideration of his great goodness towards us, and the many mercies, favours, and benefits, which we daily receive at his hands, which may stir up every one to the greatest measure of thankfulness, and perswade us all to live unto Gods glory : very profitable for these times wherein iniquity doth abound, and the love of many waketh cold.</title>
+                  <author>Killiray, Matthew.</author>
+               </titleStmt>
+               <extent>[23] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Matthew Killiray by Wing (2nd ed.)</note>
+                  <note>Imperfect: stained, defaced, tightly bound.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151203:1"/>
+            <p>Every Man's Duty, AND <hi>The Godly Man's Practice:</hi> OR, <hi>Exhortations to Love God.</hi>
+            </p>
+            <p>Drawn from the Conside<g ref="char:EOLhyphen"/>ration of his great goodness towards us, and the many mercies, favours, and benefits, which we daily receive at his hands.</p>
+            <p>Which may stir up every one to the great<g ref="char:EOLhyphen"/>est measure of thankfulness, and per<g ref="char:EOLhyphen"/>swade us all to live unto Gods Glory.</p>
+            <p>Very profitable for these times wherein Iniquity doth abound, and the Love of many waketh Cold.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ndon,</hi> Printed for <hi>W. Thackeray,</hi> at the the <hi>Angel</hi> in <hi>Duck-Lane.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151203:2"/>
+            <pb facs="tcp:151203:2"/>
+            <head>Every Man's Duty, AND <hi>The Godly Man's Prastice:</hi> OR, Exhortations to Love GOD.</head>
+            <p>AS great favours bestowed up<g ref="char:EOLhyphen"/>on a Person of an Ingenious disposition, are as so many Cords to draw his Affections towards the Benefactour, so the conside<g ref="char:EOLhyphen"/>ration of those unspeakale Mer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies and Benefits which we have received from
+<pb facs="tcp:151203:3"/> God is the strongest Motive to stir up our hearts unto thankfulness, and to knit our hearts unto the Lord in the inseparable bands of Love. Now to the end that all which read or hear this Book, may know how much they stand engaged unto God, I shall give you a taste of his goodness, &amp; let you see what he hath done for us, as in the first place he gave us our selves, and all the Creatures to be our servants, yea be created us after his own Image, in Righteousness and Holiness, and in per<g ref="char:EOLhyphen"/>fect knowledge of the Truth, with a pow<g ref="char:EOLhyphen"/>er to stand, and for ever to continue in a most blessed and happy condition, and this deserves all possible thankfulness, but this was nothing in comparison, for when we were in a sad condition, when we had for<g ref="char:EOLhyphen"/>feited all this and our selves, when by sin we had turned the Image of God into the Image of Satan, and wilfully plunged our Souls and Bodies into eternal Tor<g ref="char:EOLhyphen"/>ments, when we were become his ene<g ref="char:EOLhyphen"/>mies, mortally hating him, and to our ut<g ref="char:EOLhyphen"/>most, fighting against him, and taking part with his enemies Sin and Satan, not having the least thought or desire of reconcilement, but a perverse and obsti<g ref="char:EOLhyphen"/>nate
+<pb facs="tcp:151203:3"/> will to resist all means thereunto, he did redéem us, not only without ask<g ref="char:EOLhyphen"/>ing, but even against our wills, so make<g ref="char:EOLhyphen"/>ing of us (his cursed Enemies) servants of servants, Sons of Sons, Heirs and Coheirs with Christ; here was a fathom<g ref="char:EOLhyphen"/>less depth, a wonder beyond all wonders. But that we may the better consider what an aims or Boon God gave us when he gave us his Son, observe that when neither Heaven nor Earth could have yeilded any satisfactory thing besides Christ; that could have satisfied Gods justice, and merited heaven for us, then God in his infinite wisdom and goodness did not onely find out a way to satisfie his justice and the Law, but gave us his Son, his only beloved Son out of his bo<g ref="char:EOLhyphen"/>some, and his Son gave himself to dye the most Shameful, Painful, and Cursed death of the Cross to redéem us: That whosoever believeth in him should not perish, but have everlasting Life, <hi>John</hi> 3. 16. The very thought of which death when he came to it, together with the Weight and burthen of our sins, put him into such an Agony in the Garden, that it made him to sweat even Drops of Blood,
+<pb facs="tcp:151203:4"/> a mercy bestowed, and a way found out, may astonish all the Sons of Men, and Angels in Heaven, wherefore wonder at this ye that wonder at nothing, that the Lord should come with such a price to re<g ref="char:EOLhyphen"/>deem our worse then lost souls, and to bring Salvation unto us, even against our Wills. The Lord Iesus being rich for our sakes became poor, that we through his poverty might be made rich. 2 <hi>Cor.</hi> 8. 9. Even the eternal God would die that we might not Dye Eternally, and that which is further considerable, it cost God more to redéem the World then to make it. In the creation he gave us our selves, but in the redemption he gives us him<g ref="char:EOLhyphen"/>self, the creation of all things cost him but six days to finish it, the Redemption of Man cost him thrée and thirty years: in the creation of the world, he did but only speak the word. In the Redemption of Man, he both Spake, and Wept, and Swet, and Bled, and dyed; yea the sav<g ref="char:EOLhyphen"/>ing of one Soul is more and greater then the making of the whole world, but fur<g ref="char:EOLhyphen"/>ther to illustrate this Love, consider that Salvation stands in two things.</p>
+            <pb facs="tcp:151203:4"/>
+            <p>First, In Freedom and Deliverance from Hell.</p>
+            <p>Secondly, In the possession of Heaven and eternal life.</p>
+            <p>Christ by his Death merits the First for us.</p>
+            <p>And by his Obedience, fulfilling the Law, Merits the Second.</p>
+            <p>O! who can express how great a Mercy it is to be delivered from Hell, where we should for ever have lain in fire and Brimstone, kept in the highest Flame, by the Vnquenchable Wrath of God, where there is nothing but Dark<g ref="char:EOLhyphen"/>ness and Horror, wailing and wringing of hands, desperate yellings and gnashing of Teeth. There shall be Punishment without pity; Misery, without any mer<g ref="char:EOLhyphen"/>cy; sorrow, without succour; crying with<g ref="char:EOLhyphen"/>out Comfort, Malice without Measure, Torment without ease, where the wrath of God shall seize mens souls and bodies, as the flames of fire doth in the Lump of Pitch and brimstone, in which flame they
+<pb facs="tcp:151203:5"/> shall ever be burning and never consum<g ref="char:EOLhyphen"/>ed, ever dying, and never dead, ever roar<g ref="char:EOLhyphen"/>ing in the pangs of death, and never rid of those pangs, so y<seg rend="sup">t</seg> after <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey have endured them, so many thousand years, as there are blades of Grass on the Earth, or sands in the Sea, they shall be no nearer the end of their Torments then they were the very first day that they were cast in<g ref="char:EOLhyphen"/>to them, yea so far are they from ending, that they are ever beginning. It were Misery enough to have the Headach Toothach Chollick Gout, burning in the fire, or if there be any thing more griev<g ref="char:EOLhyphen"/>ous, yet should all these and many more meet together in one man at one instant, they would come infinitely short of the pains of Hell, yea they would be but as stinging of Ants to the Lashes of those Scorpions, but as drops to those Vials of Wrath, as Sparks to that flame, the Furnace of <hi>Babel</hi> was but a fleabiting to this tormenting <hi>Tophet</hi> prepared of old, so that it were happy for reprobate Spi<g ref="char:EOLhyphen"/>rits if they were no worse then Toads or Serpents, as consider if a dark dungeon here be so loathsome, what is that Dun<g ref="char:EOLhyphen"/>geon of eternal, of utter Darkness? if na<g ref="char:EOLhyphen"/>tural
+<pb facs="tcp:151203:5"/> fire be so terrible, what is Hell fire where both Soul and Body shall fry in everlasting flames, and continually be tormented by infernal Fiends, whose so<g ref="char:EOLhyphen"/>ciety alone would be sufficiently fright<g ref="char:EOLhyphen"/>ful? These things deeply weighed, O! how would it heighten our love to God and to Christ, who might have left us in our wretched estate to have undergone much more then is here spoken of. But blessed be his Name who hath delivered our Souls from the pit of destruction, and not only so but hath reinstated us again into Gods favour, and prepared Mansi<g ref="char:EOLhyphen"/>ons of Glory for us in the Kingdome of Heaven, where we shall sée the Blessed Face of God, which is the Glory of all sights; the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight of all glory: there shall all tears be wiped from our Eyes, there shall be no pain nor complaint, no Hun<g ref="char:EOLhyphen"/>ger, Thrist, Wearisomness, or Templa<g ref="char:EOLhyphen"/>tion to disquiet us, there is no death nor dearth, no misery nor sickness, but joys and pleasures; never ebbing, but ever flowing to all contentment. There, O there, one day is better then a thousand, their is rest from our labours, peace from our enemies, fréedome from our Sins,
+<pb facs="tcp:151203:6"/> what pleasure shall we take in the com<g ref="char:EOLhyphen"/>pany of Saints and Angels, in whom there is nothing, but what is amiable, comfortable, and delectable? There is all things that we can desire, Beauty, Rich<g ref="char:EOLhyphen"/>es, Honour, Pleasure, long life, or what<g ref="char:EOLhyphen"/>ever else can be named, no place so glo<g ref="char:EOLhyphen"/>rious by creation, so beautiful with de<g ref="char:EOLhyphen"/>lectation, so rich in possession, so com<g ref="char:EOLhyphen"/>fortable for Habitation, nor so durable for lasting, there are no estates, but inherit<g ref="char:EOLhyphen"/>ances, no inheritances but kingdoms, no Houses but palaces, no Meals but feasts, no noise but Musick no Rods but Scep<g ref="char:EOLhyphen"/>ters, no Garments but Robes, no Seats but Thrones, no Coverings for the Head but Crowns: there we shall rejoyce for the pleasantness of the place we possesse, for the glory of our Souls and Bodies, which we have put on for y<seg rend="sup">e</seg> World, which we have overcome, for Hell which we have escaped, for the joys of heaven which we have attained unto, we shall have joy above us, by the Beatifical Vision and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight of God, joy within us by the peace of Conscience, even the ioy of the Holy Ghost, and joy roundabout us by the bles<g ref="char:EOLhyphen"/>sed Company and Fellowship of our Asso<g ref="char:EOLhyphen"/>ciates
+<pb facs="tcp:151203:6"/> the Holy Saints and Angels: Oh! the multitude and fullness of these joys, so many that only God can number them, so great that he onely can estimate them, of such rarity and perfection, that this World hath nothing comparable unto them: Oh! the Transcendency of that Paradise of Pleasure, where is joy with<g ref="char:EOLhyphen"/>out Heavinesse, Blessednesse without Misery, light without darkness, health without Sickness, Abundance without Want, Ease without Labour, Liberty without Restraint, Security without Fear, Eyes without Tears, hearts with<g ref="char:EOLhyphen"/>out sorrow, Souls without Sin; where shall be no evil heard of to affright us, nor good wanting to chear us, for we shall have what we can desire, and we shall de<g ref="char:EOLhyphen"/>sire nothing but what is good. Here we have knowledge mixed with Ignorance, faith mixed with doubting, peace with Trouble, but then we shall know God, e<g ref="char:EOLhyphen"/>ven as we our selves are known of him, then shall faith be swallowed up in frui<g ref="char:EOLhyphen"/>tion, and then shall we have peace, even full without want, pure without mixture, and perpetual without all fear of forgo<g ref="char:EOLhyphen"/>ing.</p>
+            <pb facs="tcp:151203:7"/>
+            <p>What shall I say? God of his goodness hath bestowed so many, and so great mer<g ref="char:EOLhyphen"/>cies upon us, that it is not possible to ex<g ref="char:EOLhyphen"/>press his bounty therein, for if we look inward we find our creatours merits, if we look upwards, his Mercy reacheth up into the Heavens, if Downwards, the Earth is full of his goodness, and so is the broad Sea, if we look about us, what is it that he hath not given us? Air to breath in, fire to warm us, water to cleanse and cool us, Cloaths to cover us, Food to nou<g ref="char:EOLhyphen"/>rish us, Fruits to refresh us, yea delicates to please us, Beasts to serve us, Angels to attend us, Heaven to receive us, and which is above all, himself, and his own Son to be enjoyed of us, so that whither<g ref="char:EOLhyphen"/>soever we turn our Eyes, we cannot look besides his Bounty, yea we can scarce think of any thing more to pray for, but that he would continue those Blessings which he hath bestowed on us already, yet▪ we covet still as though we had n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thing, &amp; live as if we knew nothing of his Beneficience, we are bound to praise him above any Nation whatsoever, for what Nation under Heaven enjoys so much
+<pb facs="tcp:151203:7"/> light, and so many Blessings as we? God might have said before we were formed, let them be Toads, Monsters, Infidels, Beggars, Bond-flaves, Idiots, or Mad<g ref="char:EOLhyphen"/>men, so long as they live, and after that, castaways for ever and ever. But he hath made us to the best likenesse, and nursed us in the best Religion, and placed us in the best Land, and appointed us to the best and only Inheritance, even to re<g ref="char:EOLhyphen"/>main with him in Blisse for ever: Yea thousands would think themselves happy if they had but a peice of our Happinesse, for whereas some Bléed, we sleep in safe<g ref="char:EOLhyphen"/>ty, others Beg, we abound, others starve, we are full fed, others grope in the dark, our Sun still shines, we have Eys, Ears, Tongues, Feet, Hands, Health, Liberty, Reason, others are Blind, Deaf, Dumb, Sick, Maimed, Imprisoned, Distract<g ref="char:EOLhyphen"/>ed, and the like, yea God hath removed so many evils from us, and conferred so many good things upon us that they are beyond thought and imagination, for if all the World were turned into a book, and all the Angels deputed writers therein, they could not set down all the good which Gods Love in Christ hath done us. For
+<pb facs="tcp:151203:8"/> those millions of mercies which we have received since we were born, either for Soul or Body, even to the least <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it of Bread, or shall to eternity (of which we could not well want any one.) Christ hath purchased of his Father for us, and yet God the Father also hath of his frée grace and mercy given us, in giving us his son. Yea God is many times Working our good, when we least think upon him, as he was creating for <hi>Adam</hi> an help-meet for him, when he was fast asleep, and as much do we owe God for the Dangers from which he delivereth us, as for the great Wealth and Dignities whereunto he hath always raised us.</p>
+            <p>Now what shall we render unto the Lord our God, so good and Gracious in way of Thankfullnesse, for all these his Merits. The Contribution of Blessings require Retribution of Thanks, or will bring distribution of Plagues, neither could we possibly be unthankful, if we seriously thought upon what God gives, and what he forgives, for in Reason hath he contrived so many ways to save us, and should not we take all occasions to glorifie him? hath he done so much for us,
+<pb facs="tcp:151203:8"/> and shall we deny him any thing that he requires of us? though it were our lives, yea our Souls, much more our Lusts: we have exceeding hard hearts, if the Blood of the Lamb cannot soften them; stony Bowels, if so many Mercies can<g ref="char:EOLhyphen"/>not melt them, was Christ Crucified for our Sins, and should we by our sins cru<g ref="char:EOLhyphen"/>cifie him again? Oh let the meditation of what God and Christ hath done for us, make us do what we are able for him a<g ref="char:EOLhyphen"/>gain; for did Christ do all this for us, and shall we do nothing for him? like favours require like gratitude. <hi>Mary Magdalen</hi> was a great Sinner, and she had much forgiven her, therefore she loved much, so should every one of us do likewise, wherefore if we have any ingenuity in us, it will make us direct all our thoughts speeches and actions to Gods glory, as he hath directed our Eternal Salvation thereunto.</p>
+            <p>But to help and further you herein, if you be willing so to do, take these few di<g ref="char:EOLhyphen"/>rections.</p>
+            <p>First, Let these things be never out of the Minds, memories, and Mouths of those whom Christ hath done thus for,
+<pb facs="tcp:151203:9"/> let every one of us, say with Holy <hi>Ber<g ref="char:EOLhyphen"/>nard: Lord if I owed my whole self unto thee, forgiving me my self in my Creati<g ref="char:EOLhyphen"/>on, what have I left to pay for giving thy self for me to so cruel a Death, to pro<g ref="char:EOLhyphen"/>cure my Redemption? which was not so cheap as my creation, great was the Bene<g ref="char:EOLhyphen"/>fit that thou wouldest Create me of no<g ref="char:EOLhyphen"/>thing, but what tongue can sufficiently ex<g ref="char:EOLhyphen"/>press the greatness of the grace that thou didst redeem me with so dear a price when I was worse then nothing, we are full of thy goodness: O! let our Hearts run o<g ref="char:EOLhyphen"/>ver with Thankfulness:</hi> and let us say with <hi>David; O Lord what is Man that thou art so mindful of him? What shall I render unto thee O Lord for all these thy Benefits, but Love thee my Creatour and Redeemer and become a new Crea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure.</hi> How can any Rational Man meditate on such unbottomed a Love, and not study and strive for an answerably, thankful, demeanour? if a friend had given us but the thousandth part of what he hath, we should heartily love him all our lives, and think no thanks sufficient: what price then should we set upon Iesus Christ, who is the life of our lives, and the Soul of
+<pb facs="tcp:151203:9"/> our Souls: Surely this should at least make us part with our nearest, dearest, and sweetest darling Sins to serve him in Righteousnesse, and Holinesse, every Day, every Hour, all the Days of our Lives, what a Brutish and Barbar<g ref="char:EOLhyphen"/>ous unthankfulnesse and shame, were it that God should part with his Son, and his Son with his own precious blood for us, and we not part with our sinful Lusts and Delights for him.</p>
+            <p>But Secondly, Hath Christ done all this for us his Servants? so much, and so many ways obliged to him, then let us do what we are able for him again.</p>
+            <p n="1">1. Let us be zealous for his Glory, and take his part when we see or hear him dishonoured, for as <hi>Augustine</hi> saith, <hi>There can be no Love where there is no Zeal.</hi> Well Born Children are touch<g ref="char:EOLhyphen"/>ed to the Quick with the Injuries of their Parents. And it is a base Vile and unjust Ingratitude that can endure the disgrace of them under whose shel<g ref="char:EOLhyphen"/>ter they live.</p>
+            <p n="2">
+               <pb facs="tcp:151203:10"/>2. Let us seek to draw others after us from Satan unto him.</p>
+            <p n="3">3. Do we all we can to promote his Worship and Service.</p>
+            <p n="4">4. Take all good occasions to pub<g ref="char:EOLhyphen"/>lish to others how good God is, and what he hath done for us.</p>
+            <p n="5">5. Let us wholy ascribe all the good we have, or do to free Grace, and give him the Glory of his Gifts, imploy<g ref="char:EOLhyphen"/>ing them to our Masters best advan<g ref="char:EOLhyphen"/>tage.</p>
+            <p n="6">6. Let us (that we may expresse our Thankfullnesse unto him) shew kind<g ref="char:EOLhyphen"/>nesse to his Children and poor Mem<g ref="char:EOLhyphen"/>bers, who are Bone of his Bone, and Flesh of his Flesh.</p>
+            <p n="7">7. Abhor we our selves, for our for<g ref="char:EOLhyphen"/>mer unthankfulnesse, and our wonder<g ref="char:EOLhyphen"/>ful provoking of him.</p>
+            <p n="8">8. Hearken we unto Christs Voice
+<pb facs="tcp:151203:10"/> in all that he saith unto us, and ex<g ref="char:EOLhyphen"/>presse our Thankfullnesse by our Obe<g ref="char:EOLhyphen"/>dience: Yea all this let us do, if we do it but for our own Sakes, for what should we have if we did thus serve Christ who hath done all these things for his Enemies, neglecting and disho<g ref="char:EOLhyphen"/>nouring him. 'Tis true we cannot properly be said to do any thing for him, that have all we have from him, or if we could give him our Bodies and Souls, they would be saved by it, but he were never the better for them, yet we may do these and the like things, which he accounts and rewards as done to himself.</p>
+            <p>Now these things we ought to do, thus thankful we ought to be to God, for his inestimable and unspeakable▪ Be<g ref="char:EOLhyphen"/>nefits towards us. But do we thus re<g ref="char:EOLhyphen"/>quite the Lord? or do we what we are able for him again. O that I could say we did, yea I would we were but so thankful to Christ for all his Mercies (the least whereof is great<g ref="char:EOLhyphen"/>er then all the Courtesies of Men) as we are to a friend for some one good turn. But Wo worth us a people not worthy
+<pb facs="tcp:151203:11"/> the Crumbs of Christ, and our Masters least Mercy, yea well worthy of more Plagues, then either <hi>Tyre</hi> or <hi>Sidon; Sodom</hi> or <hi>Gomarah,</hi> or any People since the Creation, for as if all that Christ hath done for us, were nothing to move us, we are so far from being thank<g ref="char:EOLhyphen"/>ful, from loving, and serving him, that did we seriously think of Christs love, and our odious unthankfullnesse, and compare Gods goodnesse with our in<g ref="char:EOLhyphen"/>gratitude, rightly, weighing how we have from time to time abused his Mercy, and those many means of grace which he in his long-suffering hath af<g ref="char:EOLhyphen"/>forded for our reclaiming, it would e<g ref="char:EOLhyphen"/>ven make us Speechlesse like him in the Gospel, as neither expecting par<g ref="char:EOLhyphen"/>don, nor daring to ask it; yea it is the unspeakable Mercy of the Lord, that our Land hath not long since Spued us out, and that we are not at this present frying in Hell, for where<g ref="char:EOLhyphen"/>as God hath removed so many evils Spiritual and Corporal; Temporal and Eternal from us, and conferred so ma<g ref="char:EOLhyphen"/>ny good things upon us that they are beyond Thought and Imagination, we
+<pb facs="tcp:151203:11"/> have striven to multiply offences against him, and to make them as infinite in Number as his Blessings, we have done nothing from our Infancy, but added Sin for Sin, as he hath added Mercy to Mercy, whereby our Sins are become for Number as the Sands of the Sea, and as the Stars of Hea<g ref="char:EOLhyphen"/>ven, may not God justly another day call heaven and earth to witnesse against us, that he would have sav'd us, yea, did woe us to accept of Salvation, saying: <hi>Turn ye, turn ye, for why will you Dye O People of England:</hi> But we would not be Converted nor Saved, for whereas God hath offered us a Par<g ref="char:EOLhyphen"/>don (in rendering Christ unto us up<g ref="char:EOLhyphen"/>on the Condition of Faith and Re<g ref="char:EOLhyphen"/>pentance) even his own Son, to be a means of our Reconciliation, we are so far from accepting it thank<g ref="char:EOLhyphen"/>fully, that we not onely Refuse and Contemn it, but in a manner derided the offer of it our selves, ap<g ref="char:EOLhyphen"/>pose the Gospel of glad Tydings, and persecute Christ in his Mem<g ref="char:EOLhyphen"/>bers, either with Hand or Tongue, or both, we are (most of us) so
+<pb facs="tcp:151203:12"/> far from being Holy our selves, that we hate Holinesse in others, for if any become Religious and Conscientious, and will not for Company grievously Sin against God, Wrong their Bodies, destroy their own Souls, and Willfully leap into Hell Fire with us? we Envy, Hate, Censure, Scoff at, Nick-Name, Rail on and slander them, that we may Discourage them in the Way to Heaven, ba<g ref="char:EOLhyphen"/>ffle them out and make them a<g ref="char:EOLhyphen"/>shamed of their Holy profession, and Religious Conversation, and so con<g ref="char:EOLhyphen"/>sequently pull them back to the World, that so we may have their Company here in Sin, and here<g ref="char:EOLhyphen"/>after in Torment: Oh foolish Peo<g ref="char:EOLhyphen"/>ple and unwise thus to requite the Lord: Our horrid Sins are grown up unto Heaven, in regard whereof we may justly be confounded and ashamed to lift up our Eyes to him who is a Lord, so great and terrible, of such Glorious Majesty and Infinite Purity, what then shall we say to these things. Is there any Hope left f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> such Vile
+<pb facs="tcp:151203:12"/> Creatures as we are, yea surely for God doth still afford us time to Repent, and the Gospel of glad tydings doth still continue amongst us; the Ministery of Reconciliation is Preached unto us, and if we will at last come in with hum<g ref="char:EOLhyphen"/>ble submission, and yield to be governed by the Lord Iesus Christ, and live the rest of our days to his will, in beleiving in him in Loving, Honouring, and obey<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng him, there is no question but God will frée<g ref="char:EOLhyphen"/>ly forgive what is past, and receive us again into his favour; which the Lord of his Mercy grant for Iesus Christ his sake.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
